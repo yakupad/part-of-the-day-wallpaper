@@ -1,4 +1,4 @@
-# part-of-the-day-wallpaper
+# Part of the Day Walpaper
 Günün her bir parçası için MacBook'unuzun arkaplan resmini değiştirin.
 
 

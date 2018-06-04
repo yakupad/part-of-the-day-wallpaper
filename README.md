@@ -4,7 +4,7 @@ Günün her bir parçası için MacBook'unuzun arkaplan resmini değiştirin.
 
 ### Yükleme
 
-Mac'in masaüstü resmini günün saatine göre değiştiren bir AppleScript'dir. Günü altı bölüme ayrılır:
+Mac'inizin masaüstü resmini günün saatine göre değiştiren bir AppleScript'dir. Günü altı bölüme ayrılır:
 
 ###### Morning Early (12:01am - 8:00am)
 ###### Morning Late (8:01am - 12:00pm)
@@ -12,6 +12,8 @@ Mac'in masaüstü resmini günün saatine göre değiştiren bir AppleScript'dir
 ###### Afternoon Late (3:01pm - 6:00pm)
 ###### Evening Early (6:01pm - 9:00pm)
 ###### Evening Late (9:01pm - 12:00am)
+
+Bing arama motorunun günün resmi servisi kullanılarak indirilen resimler /Users/username/Pictures/Wallpapers/Time of Day/ klasörünün altına kaydedilir.
 
 Apple Script'i komut satırından GeekTool aracı ile çalıştırırarak her 15 dakikada bir zamanı kontrol etmiş oluyoruz.(1800 saniye). Use this line in GeekTool's command field:
 
